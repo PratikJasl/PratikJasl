@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PratikJasl
-- 👀 I’m interested in Creating useful applications 
+- 👀 I’m interested in builiding real-world applications
 - 🌱 I’m currently learning Databases
 - 💞️ I’m looking to collaborate on Blockchain Development
 - 📫 How to reach me Linkdin: @PratikJassal
